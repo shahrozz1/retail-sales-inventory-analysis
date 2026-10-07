@@ -1,0 +1,4 @@
+action_group,products,margin_before_pct,margin_after_pct,revenue_before,revenue_after
+Cut,15,32.0,0.0,1215.99,570.56
+Repriced,54,27.7,34.5,105387.68,113377.81
+Unchanged,131,28.8,28.9,300586.36,311474.56

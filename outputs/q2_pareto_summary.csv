@@ -1,0 +1,6 @@
+revenue_quintile,product_group,products,revenue,pct_of_revenue
+1,Top 20%,40,276221.83,67.8
+2,Next 20% (21-40%),40,77001.04,18.9
+3,Middle 20% (41-60%),40,32941.86,8.1
+4,Next 20% (61-80%),40,15702.59,3.9
+5,Bottom 20%,40,5322.71,1.3

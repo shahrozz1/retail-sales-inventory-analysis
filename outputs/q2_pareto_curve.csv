@@ -1,0 +1,201 @@
+sku_id,product_name,category,revenue,revenue_rank,cumulative_pct_of_skus,cumulative_pct_of_revenue
+SKU-095,Marlboro Red Pack,Tobacco,24740.48,1,0.5,6.08
+SKU-023,Monster Energy 16oz,Energy Drinks,22266.72,2,1.0,11.54
+SKU-002,Mountain Dew 20oz,Soft Drinks,20771.58,3,1.5,16.65
+SKU-096,Newport Menthol Pack,Tobacco,14766.44,4,2.0,20.27
+SKU-097,Marlboro Gold Pack,Tobacco,12415.19,5,2.5,23.32
+SKU-098,Camel Blue Pack,Tobacco,10600.74,6,3.0,25.92
+SKU-145,Bagged Ice 10lb,Frozen & Ice,10234.77,7,3.5,28.44
+SKU-005,Diet Coke 20oz,Soft Drinks,10024.74,8,4.0,30.9
+SKU-011,Coca-Cola 12pk Cans,Soft Drinks,9853.04,9,4.5,33.32
+SKU-103,Copenhagen Long Cut,Tobacco,8613.22,10,5.0,35.43
+SKU-003,Dr Pepper 20oz,Soft Drinks,8276.76,11,5.5,37.47
+SKU-100,Grizzly Wintergreen Long Cut,Tobacco,7813.96,12,6.0,39.39
+SKU-134,2% Milk Gallon,Dairy & Refrigerated,6383.52,13,6.5,40.95
+SKU-146,Blue Bell Homemade Vanilla Pint,Frozen & Ice,6299.47,14,7.0,42.5
+SKU-006,Coca-Cola 2L,Soft Drinks,6226.16,15,7.5,44.03
+SKU-102,Winston Red Pack,Tobacco,5032.34,16,8.0,45.27
+SKU-108,Backwoods Honey Cigars 5pk,Tobacco,4975.02,17,8.5,46.49
+SKU-025,Monster Zero Ultra 16oz,Energy Drinks,4875.78,18,9.0,47.69
+SKU-027,Red Bull 12oz,Energy Drinks,4847.7,19,9.5,48.88
+SKU-099,Pall Mall Red Pack,Tobacco,4748.66,20,10.0,50.04
+SKU-016,Pepsi 12pk Cans,Soft Drinks,4516.68,21,10.5,51.15
+SKU-133,Whole Milk Gallon,Dairy & Refrigerated,4264.26,22,11.0,52.2
+SKU-004,Pepsi 20oz,Soft Drinks,4203.12,23,11.5,53.23
+SKU-049,Doritos Nacho Cheese 2.75oz,Salty Snacks,4128.42,24,12.0,54.24
+SKU-007,Sprite 20oz,Soft Drinks,4028.82,25,12.5,55.23
+SKU-015,Sunkist 20oz,Soft Drinks,3980.02,26,13.0,56.21
+SKU-001,Coca-Cola 20oz,Soft Drinks,3802.23,27,13.5,57.15
+SKU-008,Big Red 20oz,Soft Drinks,3780.79,28,14.0,58.07
+SKU-110,Nature's Own Butterbread,Grocery,3778.53,29,14.5,59.0
+SKU-012,Coke Zero 20oz,Soft Drinks,3697.65,30,15.0,59.91
+SKU-038,Gatorade Fruit Punch 28oz,Water & Sports Drinks,3615.84,31,15.5,60.8
+SKU-052,Lay's Classic 2.6oz,Salty Snacks,3473.55,32,16.0,61.65
+SKU-051,Takis Fuego 4oz,Salty Snacks,3354.78,33,16.5,62.47
+SKU-024,Red Bull 8.4oz,Energy Drinks,3259.66,34,17.0,63.28
+SKU-040,Powerade Mountain Berry 28oz,Water & Sports Drinks,3234.51,35,17.5,64.07
+SKU-107,Skoal Wintergreen Long Cut,Tobacco,3138.31,36,18.0,64.84
+SKU-138,Kraft Singles 12ct,Dairy & Refrigerated,3129.53,37,18.5,65.61
+SKU-101,Zyn Cool Mint 6mg,Tobacco,3054.9,38,19.0,66.36
+SKU-022,Fresca 12pk Cans,Soft Drinks,3036.2,39,19.5,67.1
+SKU-042,Ozarka Water 24pk,Water & Sports Drinks,2977.74,40,20.0,67.84
+SKU-050,Cheetos Flamin' Hot 2.5oz,Salty Snacks,2938.2,41,20.5,68.56
+SKU-037,Ozarka Water 16.9oz,Water & Sports Drinks,2901.03,42,21.0,69.27
+SKU-021,Mug Root Beer 2L,Soft Drinks,2828.54,43,21.5,69.96
+SKU-106,L&M Red Pack,Tobacco,2755.62,44,22.0,70.64
+SKU-010,Dr Pepper 2L,Soft Drinks,2652.4,45,22.5,71.29
+SKU-013,Pepsi 2L,Soft Drinks,2506.98,46,23.0,71.91
+SKU-032,Red Bull Sugarfree 8.4oz,Energy Drinks,2470.92,47,23.5,72.52
+SKU-017,A&W Root Beer 20oz,Soft Drinks,2468.62,48,24.0,73.12
+SKU-014,Fanta Orange 20oz,Soft Drinks,2402.21,49,24.5,73.71
+SKU-139,Oscar Mayer Bologna 16oz,Dairy & Refrigerated,2218.44,50,25.0,74.26
+SKU-150,Jimmy Dean Sausage Biscuit,Frozen & Ice,2218.44,51,25.5,74.8
+SKU-072,Reese's Peanut Butter Cups 1.5oz,Candy & Gum,2177.06,52,26.0,75.34
+SKU-009,Mountain Dew 2L,Soft Drinks,2156.82,53,26.5,75.87
+SKU-028,Rockstar 16oz,Energy Drinks,2143.83,54,27.0,76.39
+SKU-030,NOS 16oz,Energy Drinks,2122.9,55,27.5,76.91
+SKU-156,Blue Bell Homemade Vanilla Half Gallon,Frozen & Ice,2112.65,56,28.0,77.43
+SKU-136,Sweet Tea Gallon,Dairy & Refrigerated,2090.51,57,28.5,77.95
+SKU-064,Jack Link's Beef Jerky 3.25oz,Salty Snacks,2058.71,58,29.0,78.45
+SKU-143,Orange Juice Half Gallon,Dairy & Refrigerated,2030.93,59,29.5,78.95
+SKU-073,M&M's Peanut 1.74oz,Candy & Gum,1942.24,60,30.0,79.43
+SKU-140,Lunchables Turkey & Cheddar,Dairy & Refrigerated,1936.95,61,30.5,79.9
+SKU-018,Diet Dr Pepper 20oz,Soft Drinks,1914.81,62,31.0,80.37
+SKU-135,Large Eggs Dozen,Dairy & Refrigerated,1883.28,63,31.5,80.84
+SKU-026,Celsius 12oz,Energy Drinks,1789.76,64,32.0,81.27
+SKU-109,Little Debbie Honey Bun,Grocery,1769.88,65,32.5,81.71
+SKU-033,Ghost Energy 16oz,Energy Drinks,1713.59,66,33.0,82.13
+SKU-029,Reign 16oz,Energy Drinks,1701.31,67,33.5,82.55
+SKU-057,David Sunflower Seeds 5.25oz,Salty Snacks,1566.36,68,34.0,82.93
+SKU-148,Totino's Party Pizza,Frozen & Ice,1497.99,69,34.5,83.3
+SKU-055,Slim Jim Giant,Salty Snacks,1451.67,70,35.0,83.66
+SKU-137,Chocolate Milk Pint,Dairy & Refrigerated,1363.15,71,35.5,83.99
+SKU-019,7UP 20oz,Soft Drinks,1362.55,72,36.0,84.33
+SKU-147,Hot Pockets Pepperoni 2ct,Frozen & Ice,1284.32,73,36.5,84.64
+SKU-053,Funyuns 2.25oz,Salty Snacks,1261.79,74,37.0,84.95
+SKU-075,Skittles Original 2.17oz,Candy & Gum,1253.7,75,37.5,85.26
+SKU-031,Monster Java 15oz,Energy Drinks,1252.91,76,38.0,85.57
+SKU-177,Duracell AA Batteries 4pk,Household & Paper,1230.46,77,38.5,85.87
+SKU-193,Antifreeze 50/50 1gal,Automotive,1215.24,78,39.0,86.17
+SKU-054,Doritos Cool Ranch 2.75oz,Salty Snacks,1187.73,79,39.5,86.46
+SKU-157,Advil Tablets 24ct,Health & Beauty,1166.54,80,40.0,86.75
+SKU-062,Planters Salted Peanuts 1.75oz,Salty Snacks,1144.25,81,40.5,87.03
+SKU-039,Gatorade Cool Blue 28oz,Water & Sports Drinks,1116.0,82,41.0,87.3
+SKU-151,Totino's Pizza Rolls 15ct,Frozen & Ice,1109.03,83,41.5,87.57
+SKU-056,Fritos Original 3.25oz,Salty Snacks,1103.78,84,42.0,87.84
+SKU-036,Starbucks Doubleshot 15oz,Energy Drinks,1102.89,85,42.5,88.12
+SKU-063,Pringles Original 5.2oz,Salty Snacks,1091.35,86,43.0,88.38
+SKU-190,Motor Oil 5W-30 1qt,Automotive,1087.79,87,43.5,88.65
+SKU-058,Ruffles Cheddar & Sour Cream 2.5oz,Salty Snacks,1083.15,88,44.0,88.92
+SKU-045,Smartwater 1L,Water & Sports Drinks,1073.41,89,44.5,89.18
+SKU-044,Gatorade Zero Glacier Cherry 28oz,Water & Sports Drinks,1068.57,90,45.0,89.44
+SKU-041,Dasani 20oz,Water & Sports Drinks,1002.96,91,45.5,89.69
+SKU-077,Extra Spearmint Gum 15ct,Candy & Gum,989.87,92,46.0,89.93
+SKU-153,Banquet Salisbury Steak Meal,Frozen & Ice,983.55,93,46.5,90.17
+SKU-141,Butter 1lb,Dairy & Refrigerated,927.81,94,47.0,90.4
+SKU-071,Snickers 1.86oz,Candy & Gum,923.36,95,47.5,90.63
+SKU-020,Canada Dry Ginger Ale 20oz,Soft Drinks,899.97,96,48.0,90.85
+SKU-061,Chex Mix Traditional 3.75oz,Salty Snacks,838.14,97,48.5,91.06
+SKU-060,Lay's Barbecue 2.6oz,Salty Snacks,831.66,98,49.0,91.26
+SKU-043,BodyArmor Strawberry Banana 28oz,Water & Sports Drinks,828.23,99,49.5,91.46
+SKU-144,Coffee-mate French Vanilla 32oz,Dairy & Refrigerated,807.03,100,50.0,91.66
+SKU-132,Folgers Classic Roast 25oz,Grocery,797.43,101,50.5,91.86
+SKU-175,Toilet Paper 4 Roll,Household & Paper,768.6,102,51.0,92.05
+SKU-158,Tylenol Extra Strength 24ct,Health & Beauty,755.61,103,51.5,92.23
+SKU-034,Alani Nu 12oz,Energy Drinks,733.67,104,52.0,92.41
+SKU-120,Bush's Baked Beans 16oz,Grocery,711.62,105,52.5,92.59
+SKU-035,5-hour Energy 2oz,Energy Drinks,710.22,106,53.0,92.76
+SKU-113,Kraft Mac & Cheese 7.25oz,Grocery,709.9,107,53.5,92.94
+SKU-081,Reese's King Size 2.8oz,Candy & Gum,658.0,108,54.0,93.1
+SKU-047,Propel Berry 24oz,Water & Sports Drinks,644.76,109,54.5,93.26
+SKU-105,Swisher Sweets Cigarillo 2pk,Tobacco,639.21,110,55.0,93.41
+SKU-129,Hellmann's Mayonnaise 30oz,Grocery,622.11,111,55.5,93.56
+SKU-118,Hormel Chili with Beans,Grocery,593.3,112,56.0,93.71
+SKU-074,Twix 1.79oz,Candy & Gum,593.02,113,56.5,93.86
+SKU-066,Rold Gold Pretzels 3oz,Salty Snacks,590.82,114,57.0,94.0
+SKU-152,Ice Cream Sandwich,Frozen & Ice,589.04,115,57.5,94.15
+SKU-176,Paper Towels 2 Roll,Household & Paper,578.84,116,58.0,94.29
+SKU-142,Shredded Cheddar 8oz,Dairy & Refrigerated,578.55,117,58.5,94.43
+SKU-123,Jif Creamy Peanut Butter 16oz,Grocery,553.89,118,59.0,94.57
+SKU-076,Kit Kat 1.5oz,Candy & Gum,553.22,119,59.5,94.7
+SKU-115,Pop-Tarts Strawberry 2ct,Grocery,547.25,120,60.0,94.84
+SKU-124,Smucker's Grape Jelly 18oz,Grocery,543.29,121,60.5,94.97
+SKU-117,StarKist Chunk Light Tuna,Grocery,511.43,122,61.0,95.1
+SKU-067,Smartfood White Cheddar 2.5oz,Salty Snacks,502.98,123,61.5,95.22
+SKU-114,Campbell's Chicken Noodle Soup,Grocery,498.0,124,62.0,95.34
+SKU-104,Black & Mild Original Cigar,Tobacco,491.49,125,62.5,95.46
+SKU-069,Lay's Classic Party Size 13oz,Salty Snacks,483.12,126,63.0,95.58
+SKU-154,El Monterey Beef & Bean Burrito,Frozen & Ice,469.64,127,63.5,95.7
+SKU-059,Cheetos Crunchy 3.25oz,Salty Snacks,463.14,128,64.0,95.81
+SKU-080,Sour Patch Kids 2oz,Candy & Gum,451.08,129,64.5,95.92
+SKU-046,Vitaminwater XXX 20oz,Water & Sports Drinks,450.69,130,65.0,96.03
+SKU-125,Frosted Flakes 13.5oz,Grocery,443.26,131,65.5,96.14
+SKU-122,Saltine Crackers 16oz,Grocery,438.9,132,66.0,96.25
+SKU-116,Chef Boyardee Beef Ravioli,Grocery,435.24,133,66.5,96.35
+SKU-090,Jolly Rancher Hard Candy 7oz,Candy & Gum,429.27,134,67.0,96.46
+SKU-065,Combos Cheddar Cheese 6.3oz,Salty Snacks,428.23,135,67.5,96.57
+SKU-087,Payday 1.85oz,Candy & Gum,427.85,136,68.0,96.67
+SKU-194,Fix-a-Flat 16oz,Automotive,419.65,137,68.5,96.77
+SKU-079,Starburst Original 2.07oz,Candy & Gum,407.95,138,69.0,96.87
+SKU-181,Kingsford Charcoal 8lb,Household & Paper,399.6,139,69.5,96.97
+SKU-068,Munchies Snack Mix 3oz,Salty Snacks,390.93,140,70.0,97.07
+SKU-048,Gatorade Lemon-Lime 28oz,Water & Sports Drinks,379.44,141,70.5,97.16
+SKU-082,Snickers King Size 3.29oz,Candy & Gum,378.35,142,71.0,97.25
+SKU-084,Butterfinger 1.9oz,Candy & Gum,378.1,143,71.5,97.35
+SKU-188,USB-C Charging Cable 6ft,Household & Paper,376.71,144,72.0,97.44
+SKU-078,Hershey's Milk Chocolate 1.55oz,Candy & Gum,370.14,145,72.5,97.53
+SKU-192,Motor Oil 10W-30 1qt,Automotive,359.6,146,73.0,97.62
+SKU-179,Hefty Trash Bags 13gal 20ct,Household & Paper,351.56,147,73.5,97.7
+SKU-178,Dawn Dish Soap 8oz,Household & Paper,345.51,148,74.0,97.79
+SKU-126,Cheerios 8.9oz,Grocery,343.97,149,74.5,97.87
+SKU-149,Nestle Drumstick Cone,Frozen & Ice,341.13,150,75.0,97.96
+SKU-127,Heinz Ketchup 20oz,Grocery,335.16,151,75.5,98.04
+SKU-159,Tums Ultra Assorted 72ct,Health & Beauty,324.5,152,76.0,98.12
+SKU-191,Windshield Washer Fluid 1gal,Automotive,318.79,153,76.5,98.2
+SKU-111,Maruchan Ramen Chicken,Grocery,316.0,154,77.0,98.28
+SKU-119,Spam Classic 12oz,Grocery,312.93,155,77.5,98.35
+SKU-182,Duracell AAA Batteries 4pk,Household & Paper,287.64,156,78.0,98.42
+SKU-128,Imperial Sugar 4lb,Grocery,284.43,157,78.5,98.49
+SKU-112,Vienna Sausage 4.6oz,Grocery,283.1,158,79.0,98.56
+SKU-091,Life Savers Wint O Green 6.25oz,Candy & Gum,269.37,159,79.5,98.63
+SKU-130,Gold Medal Flour 5lb,Grocery,260.42,160,80.0,98.69
+SKU-164,Benadryl Allergy 24ct,Health & Beauty,231.71,161,80.5,98.75
+SKU-070,Mac's Pork Skins 2.5oz,Salty Snacks,230.84,162,81.0,98.81
+SKU-180,Clorox Bleach 43oz,Household & Paper,224.5,163,81.5,98.86
+SKU-195,Octane Booster 15oz,Automotive,216.69,164,82.0,98.91
+SKU-183,Reynolds Aluminum Foil 30sqft,Household & Paper,214.57,165,82.5,98.97
+SKU-121,Ro-Tel Original 10oz,Grocery,208.95,166,83.0,99.02
+SKU-131,Crisco Vegetable Oil 48oz,Grocery,201.19,167,83.5,99.07
+SKU-189,Little Trees Air Freshener,Automotive,200.99,168,84.0,99.12
+SKU-089,Milky Way 1.84oz,Candy & Gum,199.0,169,84.5,99.17
+SKU-200,Wiper Blade 22in,Automotive,194.87,170,85.0,99.21
+SKU-172,Neosporin Ointment 0.5oz,Health & Beauty,188.79,171,85.5,99.26
+SKU-161,Band-Aid Assorted 30ct,Health & Beauty,185.69,172,86.0,99.31
+SKU-094,Mike and Ike Original 5oz Box,Candy & Gum,184.37,173,86.5,99.35
+SKU-174,Reading Glasses +1.50,Health & Beauty,169.83,174,87.0,99.39
+SKU-083,Orbit Peppermint Gum 14ct,Candy & Gum,162.89,175,87.5,99.43
+SKU-163,Alka-Seltzer Plus Cold 20ct,Health & Beauty,160.77,176,88.0,99.47
+SKU-155,Bomb Pop Original,Frozen & Ice,157.38,177,88.5,99.51
+SKU-166,Speed Stick Deodorant,Health & Beauty,153.72,178,89.0,99.55
+SKU-185,Tide Pods 16ct,Household & Paper,152.83,179,89.5,99.59
+SKU-092,Trident Original Gum 14ct,Candy & Gum,136.04,180,90.0,99.62
+SKU-170,Zyrtec 24hr 5ct,Health & Beauty,134.85,181,90.5,99.65
+SKU-093,Hot Tamales 5oz Box,Candy & Gum,132.46,182,91.0,99.69
+SKU-162,Pepto-Bismol 8oz,Health & Beauty,119.85,183,91.5,99.72
+SKU-184,Paper Plates 50ct,Household & Paper,112.25,184,92.0,99.74
+SKU-088,3 Musketeers 1.92oz,Candy & Gum,111.44,185,92.5,99.77
+SKU-160,ChapStick Classic,Health & Beauty,107.64,186,93.0,99.8
+SKU-196,Fuel Injector Cleaner 12oz,Automotive,95.88,187,93.5,99.82
+SKU-187,LED Light Bulbs 2pk,Household & Paper,76.89,188,94.0,99.84
+SKU-198,Brake Fluid 12oz,Automotive,76.89,189,94.5,99.86
+SKU-197,Tire Pressure Gauge,Automotive,69.86,190,95.0,99.87
+SKU-085,Airheads Taffy Bar,Candy & Gum,66.15,191,95.5,99.89
+SKU-186,Kingsford Lighter Fluid 32oz,Household & Paper,65.88,192,96.0,99.91
+SKU-169,Toothbrush Medium,Health & Beauty,65.78,193,96.5,99.92
+SKU-168,Vicks DayQuil 8oz,Health & Beauty,59.95,194,97.0,99.94
+SKU-173,Rubbing Alcohol 16oz,Health & Beauty,52.35,195,97.5,99.95
+SKU-199,Power Steering Fluid 12oz,Automotive,44.94,196,98.0,99.96
+SKU-086,Blow Pop,Candy & Gum,43.29,197,98.5,99.97
+SKU-167,Banana Boat Sunscreen SPF30,Health & Beauty,39.96,198,99.0,99.98
+SKU-171,Suave Shampoo 12.6oz,Health & Beauty,35.92,199,99.5,99.99
+SKU-165,Travel Toothpaste 0.85oz,Health & Beauty,34.86,200,100.0,100.0

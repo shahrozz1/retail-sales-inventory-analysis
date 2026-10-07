@@ -1,0 +1,25 @@
+category,period,cost_of_goods_sold,avg_inventory_value,annual_turnover
+Automotive,Before (Jan-Jun),2898.02,921.02,6.3
+Automotive,After (Jul-Dec),2974.71,698.45,8.4
+Candy & Gum,Before (Jan-Jun),8266.38,927.1,18.0
+Candy & Gum,After (Jul-Dec),8192.66,853.03,19.1
+Dairy & Refrigerated,Before (Jan-Jun),21905.15,1385.67,31.9
+Dairy & Refrigerated,After (Jul-Dec),22900.39,1117.6,40.6
+Energy Drinks,Before (Jan-Jun),36260.38,2490.98,29.4
+Energy Drinks,After (Jul-Dec),35617.1,2132.39,33.1
+Frozen & Ice,Before (Jan-Jun),16202.13,1501.91,21.8
+Frozen & Ice,After (Jul-Dec),17766.07,1073.32,32.8
+Grocery,Before (Jan-Jun),12204.27,1552.91,15.8
+Grocery,After (Jul-Dec),12412.95,1445.07,17.0
+Health & Beauty,Before (Jan-Jun),2276.41,716.69,6.4
+Health & Beauty,After (Jul-Dec),2096.91,562.71,7.4
+Household & Paper,Before (Jan-Jun),3748.48,1079.25,7.0
+Household & Paper,After (Jul-Dec),3434.9,798.22,8.5
+Salty Snacks,Before (Jan-Jun),20845.64,1708.21,24.6
+Salty Snacks,After (Jul-Dec),20497.71,1348.52,30.2
+Soft Drinks,Before (Jan-Jun),64472.09,3530.6,36.8
+Soft Drinks,After (Jul-Dec),65290.88,2194.87,59.0
+Tobacco,Before (Jan-Jun),90162.57,6489.54,28.0
+Tobacco,After (Jul-Dec),93350.14,3223.52,57.4
+Water & Sports Drinks,Before (Jan-Jun),11790.77,628.67,37.8
+Water & Sports Drinks,After (Jul-Dec),11756.25,473.44,49.3

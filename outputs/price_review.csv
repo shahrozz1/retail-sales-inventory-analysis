@@ -1,0 +1,59 @@
+sku_id,product_name,category,unit_cost,regular_price,margin_pct,category_median_pct,suggested_price
+SKU-190,Motor Oil 5W-30 1qt,Automotive,6.42,8.99,28.6,34.4,9.790000000000001
+SKU-195,Octane Booster 15oz,Automotive,4.97,6.99,28.9,34.4,7.59
+SKU-191,Windshield Washer Fluid 1gal,Automotive,3.18,4.49,29.2,34.4,4.890000000000001
+SKU-197,Tire Pressure Gauge,Automotive,3.46,4.99,30.7,34.4,5.29
+SKU-072,Reese's Peanut Butter Cups 1.5oz,Candy & Gum,1.41,1.99,29.1,41.3,2.49
+SKU-073,M&M's Peanut 1.74oz,Candy & Gum,1.37,1.99,31.2,41.3,2.39
+SKU-093,Hot Tamales 5oz Box,Candy & Gum,1.22,1.79,31.8,41.3,2.0900000000000003
+SKU-081,Reese's King Size 2.8oz,Candy & Gum,2.24,3.29,31.9,41.3,3.89
+SKU-089,Milky Way 1.84oz,Candy & Gum,1.35,1.99,32.2,41.3,2.29
+SKU-077,Extra Spearmint Gum 15ct,Candy & Gum,1.13,1.79,36.9,41.3,1.99
+SKU-082,Snickers King Size 3.29oz,Candy & Gum,2.04,3.29,38.0,41.3,3.49
+SKU-141,Butter 1lb,Dairy & Refrigerated,4.83,5.49,12.0,21.0,6.19
+SKU-135,Large Eggs Dozen,Dairy & Refrigerated,3.51,3.99,12.0,21.0,4.49
+SKU-136,Sweet Tea Gallon,Dairy & Refrigerated,3.07,3.49,12.0,21.0,3.89
+SKU-137,Chocolate Milk Pint,Dairy & Refrigerated,1.66,1.99,16.6,21.0,2.1900000000000004
+SKU-025,Monster Zero Ultra 16oz,Energy Drinks,2.42,3.29,26.4,30.3,3.49
+SKU-023,Monster Energy 16oz,Energy Drinks,2.41,3.29,26.7,30.3,3.49
+SKU-030,NOS 16oz,Energy Drinks,2.19,2.99,26.8,30.3,3.1900000000000004
+SKU-036,Starbucks Doubleshot 15oz,Energy Drinks,2.77,3.79,26.9,30.3,3.99
+SKU-156,Blue Bell Homemade Vanilla Half Gallon,Frozen & Ice,7.07,8.99,21.4,30.5,10.19
+SKU-154,El Monterey Beef & Bean Burrito,Frozen & Ice,1.56,1.99,21.6,30.5,2.29
+SKU-148,Totino's Party Pizza,Frozen & Ice,2.25,2.99,24.7,30.5,3.29
+SKU-153,Banquet Salisbury Steak Meal,Frozen & Ice,1.86,2.49,25.3,30.5,2.6900000000000004
+SKU-149,Nestle Drumstick Cone,Frozen & Ice,1.84,2.49,26.1,30.5,2.6900000000000004
+SKU-113,Kraft Mac & Cheese 7.25oz,Grocery,2.02,2.29,11.8,21.3,2.5900000000000003
+SKU-128,Imperial Sugar 4lb,Grocery,4.39,4.99,12.0,21.3,5.59
+SKU-115,Pop-Tarts Strawberry 2ct,Grocery,1.75,1.99,12.1,21.3,2.29
+SKU-124,Smucker's Grape Jelly 18oz,Grocery,3.94,4.49,12.2,21.3,5.09
+SKU-109,Little Debbie Honey Bun,Grocery,1.12,1.29,13.2,21.3,1.49
+SKU-120,Bush's Baked Beans 16oz,Grocery,2.57,2.99,14.0,21.3,3.29
+SKU-123,Jif Creamy Peanut Butter 16oz,Grocery,4.2,4.99,15.8,21.3,5.390000000000001
+SKU-118,Hormel Chili with Beans,Grocery,2.9,3.49,16.9,21.3,3.6900000000000004
+SKU-168,Vicks DayQuil 8oz,Health & Beauty,7.78,11.99,35.1,41.9,13.39
+SKU-167,Banana Boat Sunscreen SPF30,Health & Beauty,6.46,9.99,35.3,41.9,11.19
+SKU-160,ChapStick Classic,Health & Beauty,1.83,2.99,38.8,41.9,3.1900000000000004
+SKU-183,Reynolds Aluminum Foil 30sqft,Household & Paper,4.07,4.99,18.4,28.3,5.69
+SKU-180,Clorox Bleach 43oz,Household & Paper,3.63,4.49,19.2,28.3,5.09
+SKU-178,Dawn Dish Soap 8oz,Household & Paper,2.79,3.49,20.1,28.3,3.89
+SKU-179,Hefty Trash Bags 13gal 20ct,Household & Paper,6.35,7.99,20.5,28.3,8.89
+SKU-175,Toilet Paper 4 Roll,Household & Paper,4.29,5.49,21.9,28.3,5.99
+SKU-057,David Sunflower Seeds 5.25oz,Salty Snacks,1.77,2.29,22.7,30.0,2.5900000000000003
+SKU-051,Takis Fuego 4oz,Salty Snacks,2.25,2.99,24.7,30.0,3.29
+SKU-070,Mac's Pork Skins 2.5oz,Salty Snacks,1.48,1.99,25.6,30.0,2.1900000000000004
+SKU-067,Smartfood White Cheddar 2.5oz,Salty Snacks,1.85,2.49,25.7,30.0,2.6900000000000004
+SKU-068,Munchies Snack Mix 3oz,Salty Snacks,1.84,2.49,26.1,30.0,2.6900000000000004
+SKU-013,Pepsi 2L,Soft Drinks,2.31,3.29,29.8,38.6,3.79
+SKU-014,Fanta Orange 20oz,Soft Drinks,1.6,2.29,30.1,38.6,2.6900000000000004
+SKU-012,Coke Zero 20oz,Soft Drinks,1.72,2.49,30.9,38.6,2.89
+SKU-017,A&W Root Beer 20oz,Soft Drinks,1.55,2.29,32.3,38.6,2.5900000000000003
+SKU-018,Diet Dr Pepper 20oz,Soft Drinks,1.68,2.49,32.5,38.6,2.79
+SKU-016,Pepsi 12pk Cans,Soft Drinks,5.69,8.49,33.0,38.6,9.290000000000001
+SKU-021,Mug Root Beer 2L,Soft Drinks,1.99,2.99,33.4,38.6,3.29
+SKU-011,Coca-Cola 12pk Cans,Soft Drinks,5.89,8.99,34.5,38.6,9.69
+SKU-042,Ozarka Water 24pk,Water & Sports Drinks,4.68,6.99,33.0,42.4,8.19
+SKU-044,Gatorade Zero Glacier Cherry 28oz,Water & Sports Drinks,1.81,2.79,35.1,42.4,3.1900000000000004
+SKU-038,Gatorade Fruit Punch 28oz,Water & Sports Drinks,1.8,2.79,35.5,42.4,3.1900000000000004
+SKU-040,Powerade Mountain Berry 28oz,Water & Sports Drinks,1.6,2.49,35.7,42.4,2.79
+SKU-047,Propel Berry 24oz,Water & Sports Drinks,1.27,1.99,36.2,42.4,2.29
