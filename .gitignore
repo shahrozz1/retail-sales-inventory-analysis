@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# The database is rebuilt in ~2 seconds by src/generate_data.py (same seed -> same data)
+data/*.duckdb
+data/*.duckdb.wal
+
+# macOS
+.DS_Store
